@@ -63,6 +63,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+The project was deployed here:[https://react-my-todo-app.herokuapp.com/](https://react-my-todo-app.herokuapp.com/)
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
